@@ -1,0 +1,18 @@
+{
+    "name": "Heroku-fake-repo",
+    "description": "Create a fake app with stack as a container in Heroku",
+    "repository": "https://github.com/gautamajay52/Heroku-fake-repo",
+    "keywords": [
+        "Heroku",
+        "fake",
+        "repo"
+    ],
+    "env": {
+        "BY": {
+            "description": "Name of Author",
+            "value": "gautamajay52",
+            "required": false
+        }
+    },
+    "stack": "container"
+}
